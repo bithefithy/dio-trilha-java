@@ -1,5 +1,7 @@
 package edu.bithefithy.bootcamp.declaracoes;
 
+import edu.bithefithy.bootcamp.model.Pessoa;
+
 public class Variaveis {
     // Variável do tipo String
     String mensagem = "Olá, Mundo!";
