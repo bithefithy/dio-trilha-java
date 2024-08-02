@@ -3,7 +3,7 @@ package edu.bithefithy.bootcamp.collections.comparableXcomparator;
 import java.util.Comparator;
 
 // Uma classe 'Livro' que implementa Comparable
-class Livro implements Comparable<Livro> {
+public class Livro implements Comparable<Livro> {
     private String titulo;
     private String autor;
     private int ano;

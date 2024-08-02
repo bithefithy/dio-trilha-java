@@ -1,5 +1,4 @@
 package edu.bithefithy.bootcamp.collections.list.ordenacao;
-import edu.bithefithy.bootcamp.model.Pessoa;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,9 +1,4 @@
-package edu.bithefithy.bootcamp.collections;
-
-import edu.bithefithy.bootcamp.collections.comparableXcomparator.CompararAno;
-import edu.bithefithy.bootcamp.collections.comparableXcomparator.CompararAnoAutorTitulo;
-import edu.bithefithy.bootcamp.collections.comparableXcomparator.CompararAutor;
-import edu.bithefithy.bootcamp.collections.comparableXcomparator.Livro;
+package edu.bithefithy.bootcamp.collections.comparableXcomparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
